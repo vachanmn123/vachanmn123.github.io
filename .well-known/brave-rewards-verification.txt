@@ -1,0 +1,5 @@
+This is a Brave Rewards publisher verification file.
+
+Domain: vachanmn.me
+Token: f010c32c3dd463a6ce1c667674a71636ce01ed469a0060f1aee30a634c623c46
+
